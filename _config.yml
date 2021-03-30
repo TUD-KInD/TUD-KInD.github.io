@@ -3,3 +3,6 @@ remote_theme: peterdesmet/petridish@1.1
 title: TUD-KInD                       # Title in top navigation bar (navbar) and <head>
 description: Knowledge Intelligence and Design group at the Industrial Design Faculty at TU Delft # Site description in <head>
 author: Carlo van der Valk
+
+
+logo: /assets/img/TUD-logo.png
