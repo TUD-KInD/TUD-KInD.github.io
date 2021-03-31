@@ -11,3 +11,6 @@ colors:
   banner: "#00A6D6"                     # Background color for page banners: use color that contrasts well with white
   # footer: "#6c757d" 
 rounded_corners: true
+
+assets:
+  favicon: ‘favicon.ico’
