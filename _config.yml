@@ -1,8 +1,12 @@
 remote_theme: peterdesmet/petridish@1.1
 
-title: TUD-KInD                       # Title in top navigation bar (navbar) and <head>
+title:                        # Title in top navigation bar (navbar) and <head>
 description: Knowledge Intelligence and Design group at the Industrial Design Faculty at TU Delft # Site description in <head>
 author: Carlo van der Valk
 
 
 logo: /assets/img/TUD-logo.png
+colors:
+  # links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#00A6D6"                     # Background color for page banners: use color that contrasts well with white
+  # footer: "#6c757d" 
