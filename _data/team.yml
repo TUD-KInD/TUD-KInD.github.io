@@ -2,7 +2,7 @@
 
 - name: Alessandro Bozzon
   role: Full Professor # Will appear next to name
-  image: https://www.alessandrobozzon.com/assets/images/bio-photo-2020.jpeg # Can be external link
+  image: /assets/img/people/alessandro_bozzon.jpeg # Can be external link
   description: > # Can be Markdown
     Protagonist, from the 20th century.
   orcid: 0000-0000-0000-0000
@@ -13,6 +13,6 @@
 
 - name: Carlo van der Valk
   role: Research Engineer
-  image: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/2/a/csm_carlo_van_der_valk_90017574e4.png
+  image: /assets/img/people/carlo_van_der_valk.png
   description: >
     A dude

@@ -1,6 +1,6 @@
 ---
 <!-- layout: team -->
 title: Contact
-description: How to contact us
+<!-- description: How to contact us -->
 permalink: /contact/
 ---

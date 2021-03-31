@@ -8,7 +8,7 @@ columns:
     links:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      Contact: <br/>
+      **Contact:** <br/>
       Knowledge Intelligence and Design <br/>
       Building 32  <br/>
       Landbergstraat 15  <br/>
